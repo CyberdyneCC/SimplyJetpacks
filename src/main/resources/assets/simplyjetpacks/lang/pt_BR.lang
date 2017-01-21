@@ -73,14 +73,14 @@ simplyjetpacks.chat.fluxpack.on=Carregador da Mochila de Capacitores
 simplyjetpacks.tooltip.holdShift=Segure %s para detalhes
 simplyjetpacks.tooltip.holdShift.shift=Shift
 
-simplyjetpacks.tooltip.on=Lig
-simplyjetpacks.tooltip.off=Desl
+simplyjetpacks.tooltip.on=Ligados
+simplyjetpacks.tooltip.off=Desligados
 simplyjetpacks.tooltip.enabled=Ativado
 simplyjetpacks.tooltip.disabled=Desativado
 simplyjetpacks.tooltip.yes=Sim
 simplyjetpacks.tooltip.no=Não
 simplyjetpacks.tooltip.energy.none=Nenhuma
-simplyjetpacks.tooltip.state=Estado
+simplyjetpacks.tooltip.state=Motores
 simplyjetpacks.tooltip.tier=Nível %d
 simplyjetpacks.tooltip.fuel.infinite.energy=1.21G / 1.21G RF
 simplyjetpacks.tooltip.fuel.infinite.fluid=Flúido Infinito
